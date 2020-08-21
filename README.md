@@ -3,9 +3,9 @@
 
 ## 入门
 
-- [ ] [Teach Yourself Programming in Ten Years](https://liuyandong.com/2017/10/25/122/)
-- [ ] [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
-- [ ] [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
+- [X] [Teach Yourself Programming in Ten Years](https://liuyandong.com/2017/10/25/122/)
+- [X] [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+- [X] [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
 
 
 
@@ -39,7 +39,7 @@
 
 #### Java
 - [ ] [Effectic Java](https://book.douban.com/subject/27047716/)
-- [ ] [Java并发编程实战](https://book.douban.com/subject/10484692/)
+- [ ] [Java并发编程实战](https://book.douban.com/subject/10484692/)(进行中，第8章)
 - [ ] [Java性能权威指南](https://book.douban.com/subject/26740520/)
 - [ ] [深入理解Java虚拟机（第3版）](https://book.douban.com/subject/34907497/)
 - [ ] [Java编程思想](https://book.douban.com/subject/2130190/)
@@ -79,7 +79,7 @@
 
 
 ### 系统知识
-- [ ] [深入理解计算机系统](https://book.douban.com/subject/5333562/)(必读)
+- [ ] [深入理解计算机系统](https://book.douban.com/subject/5333562/) (进行中，第三章)
 - [ ] [UNIX环境高级编程](https://book.douban.com/subject/1788421/)
 - [ ] [UNIX网络编程](https://book.douban.com/subject/1500149/)
 - [ ] [TCP/IP详解 卷1：协议](https://book.douban.com/subject/1088054/)
@@ -203,9 +203,9 @@
 
 - #### 字节码相关
 
-- [ ] [Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
+- [x] [Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
 
-- [ ] [IBM Java bytecode](https://www.ibm.com/developerworks/library/it-haggar_bytecode/index.html)
+- [x] [IBM Java bytecode](https://www.ibm.com/developerworks/library/it-haggar_bytecode/index.html)
 
 - [ ] [Java Bytecode and JVMTI Examples](https://github.com/jon-bell/bytecode-examples)
 
