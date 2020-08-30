@@ -1,5 +1,6 @@
 # The Way To Upgrade - 程序员练级攻略
 
+> 食用方式：fork 到自己仓库，checkout branch progress，完成一项在前面打X即可
 
 ## 入门
 
@@ -7,39 +8,36 @@
 - [ ] [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
 - [ ] [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
 
-
-
 ## 程序员修养
 
 - 英文能力
-- 问问题的能力 
-  - [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html),[点击简体中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
-  - [The XY Problem](http://xyproblem.info/)
+- 问问题的能力
+  - [ ] [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html),[点击简体中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+  - [ ] [The XY Problem](http://xyproblem.info/)
 - 写代码的修养
-  - [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
-  - [修改代码的艺术](https://book.douban.com/subject/2248759/)
-  - [代码整洁之道](https://book.douban.com/subject/4199741/)
-  - [程序员职业素养](https://book.douban.com/subject/11614538/)
-  - Code Review
-    - [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
-    - [How Google Does Code Review](https://dzone.com/articles/how-google-does-code-review)
-  - 安全防范
-    - [OWASP](https://owasp.org/)
-    - [OWASP 十大 Web 弱点防护守则](https://www.owasp.org/index.php/Category:OWASP_T)
-    - [防御性编程](https://en.wikipedia.org/wiki/Defensive_programming)
+  - [ ] [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
+  - [ ] [修改代码的艺术](https://book.douban.com/subject/2248759/)
+  - [ ] [代码整洁之道](https://book.douban.com/subject/4199741/)
+  - [ ] [程序员职业素养](https://book.douban.com/subject/11614538/)
+- Code Review
+  - [ ] [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+  - [ ] [How Google Does Code Review](https://dzone.com/articles/how-google-does-code-review)
+- 安全防范
+  - [ ] [OWASP](https://owasp.org/)
+  - [ ] [OWASP 十大 Web 弱点防护守则](https://www.owasp.org/index.php/Category:OWASP_T)
+  - [ ] [防御性编程](https://en.wikipedia.org/wiki/Defensive_programming)
 - 软件工程和上线
-  - [Google软件测试之道](https://book.douban.com/subject/25742200/)
-  - [Serverside checklist](https://github.com/mtdvio/going-to-production/blob/master/serverside-checklist.md)
-
-
+  - [ ] [Google软件测试之道](https://book.douban.com/subject/25742200/)
+  - [ ] [Serverside checklist](https://github.com/mtdvio/going-to-production/blob/master/serverside-checklist.md)
 
 ## 专业基础篇
 
 ### 编程语言
 
 #### Java
+
 - [ ] [Effectic Java](https://book.douban.com/subject/27047716/)
-- [ ] [Java并发编程实战](https://book.douban.com/subject/10484692/)
+- [ ] [Java并发编程实战](https://book.douban.com/subject/10484692/)(进行中，第8章)
 - [ ] [Java性能权威指南](https://book.douban.com/subject/26740520/)
 - [ ] [深入理解Java虚拟机（第3版）](https://book.douban.com/subject/34907497/)
 - [ ] [Java编程思想](https://book.douban.com/subject/2130190/)
@@ -47,6 +45,7 @@
 - [ ] [设计模式](https://book.douban.com/subject/1052241/)
 
 #### C/C++
+
 - [ ] [C程序设计语言](https://book.douban.com/subject/1139336/)
 - [ ] [C语言程序设计现代方法](https://book.douban.com/subject/2280547/)
 - [ ] [C++ Primer 中文版（第 5 版）](https://book.douban.com/subject/25708312/)
@@ -56,14 +55,15 @@
 - [ ] [Bjarne Stroustrup's FAQ（中文版）](http://www.stroustrup.com/bsfaqcn.html)
 
 #### Go
+
 - [ ] [Go by Example](https://gobyexample.com/)
 - [ ] [Go 101](https://go101.org/article/101.html)
 - [ ] [The Go Programming Language](https://book.douban.com/subject/26337545/)
 - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
 - [ ] [Go精华文章列表](https://github.com/golang/go/wiki/Articles)
 
-
 ### 理论学科
+
 - [ ] [算法](https://book.douban.com/subject/10432347/)
 - [ ] [算法图解](https://book.douban.com/subject/26979890/)
 - [ ] [算法导论](https://book.douban.com/subject/20432061/)
@@ -77,20 +77,19 @@
 - [ ] [计算机程序的构造和解释](https://book.douban.com/subject/1148282/)
 - [ ] [编译原理](https://book.douban.com/subject/3296317/)
 
-
 ### 系统知识
-- [ ] [深入理解计算机系统](https://book.douban.com/subject/5333562/)(必读)
+
+- [ ] [深入理解计算机系统](https://book.douban.com/subject/5333562/) (进行中，第三章)
 - [ ] [UNIX环境高级编程](https://book.douban.com/subject/1788421/)
 - [ ] [UNIX网络编程](https://book.douban.com/subject/1500149/)
 - [ ] [TCP/IP详解 卷1：协议](https://book.douban.com/subject/1088054/)
-
-简单点：
-- [ ] [Linux C编程一站式学习](https://book.douban.com/subject/4141733/) 
+- [ ] [Linux C编程一站式学习](https://book.douban.com/subject/4141733/)
 - [ ] [TCP/IP网络编程](https://book.douban.com/subject/25911735/)
 - [ ] [图解TCP/IP（第5版）](https://book.douban.com/subject/24737674/)
 - [ ] [The TCP/IP Guide](http://www.tcpipguide.com/free/index.htm)
 
 ### 软件设计
+
 - [ ] [编程范式](https://en.wikipedia.org/wiki/Programming_paradigm)
 - [ ] [Six programming paradigms that will change how you think about coding](https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
 - [ ] [Programming Paradigms forDummies:  What EveryProgrammer Should Know]
@@ -103,8 +102,6 @@
 - [ ] [How to Design a Good API & Why it Matters](https://www.infoq.com/presentations/effective-api-design)
 - [ ] [The Problem With Logging](https://blog.codinghorror.com/the-problem-with-logging/)
 - [ ] [Concurrent Programming for Scalable Web Architectures](http://berb.github.io/diploma-thesis/community/index.html)
-
-
 
 ## 高手成长篇
 
@@ -140,7 +137,7 @@
 
 - [ ] [C Dynamic Memory Allocation](https://en.wikipedia.org/wiki/C_dynamic_memory_allocation#Thread-caching_malloc_(tcmalloc))
 
-- [ ] [[ptmalloc,tcmalloc和jemalloc内存分配策略研究](https://owent.net/2013/867.html)](https://owent.net/2013/867.html)
+- [ ] [ptmalloc,tcmalloc和jemalloc内存分配策略研究](https://owent.net/2013/867.html)
 
 - [ ] [内存优化总结:ptmalloc、tcmalloc和jemalloc](http://www.cnhalo.net/2016/06/13/memory-optimize/)
 
@@ -152,7 +149,7 @@
 
 - [ ] [计算机网络（第5版）](https://book.douban.com/subject/10510747/)
 
-- [ ] [Computer Network Design ](http://www.site.uottawa.ca/~shervin/courses/ceg4185/lectures/)
+- [ ] [Computer Network Design](http://www.site.uottawa.ca/~shervin/courses/ceg4185/lectures/)
 
 - [ ] [Computer Network Tutorials](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
@@ -203,9 +200,9 @@
 
 - #### 字节码相关
 
-- [ ] [Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
+- [x] [Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
 
-- [ ] [IBM Java bytecode](https://www.ibm.com/developerworks/library/it-haggar_bytecode/index.html)
+- [x] [IBM Java bytecode](https://www.ibm.com/developerworks/library/it-haggar_bytecode/index.html)
 
 - [ ] [Java Bytecode and JVMTI Examples](https://github.com/jon-bell/bytecode-examples)
 
@@ -248,12 +245,12 @@
 - [ ] [MySQL技术内幕](https://book.douban.com/subject/24708143/)
 - [ ] [MySQL Internals Manual](https://dev.mysql.com/doc/internals/en/)
 - [ ] [数据库索引设计与优化](https://book.douban.com/subject/26419771/)
-- [ ] [[MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+- [ ] [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 - [ ] [awesome-mysql](https://shlomi-noach.github.io/awesome-mysql/)
 - [ ] [Booking.com: Evolution of MySQL System Design](https://www.percona.com/live/mysql-conference-2015)
 - [ ] [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
 - [ ] [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/postgres-to-mysql-migration/)
-- [ ] [[MySQL sharding approaches?](https://stackoverflow.com/questions/5541421/mysql-sharding-approaches)](https://stackoverflow.com/questions/5541421/mysql-sharding-approaches)
+- [ ] [MySQL sharding approaches?](https://stackoverflow.com/questions/5541421/mysql-sharding-approaches)
 - [ ] [How to Scale Big Data Applications]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.percona.com%2Fsites%2Fdefault%2Ffiles%2Fpresentations%2FHow%2520to%2520Scale%2520Big%2520Data%2520Applications.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.percona.com%2Fsites%2Fdefault%2Ffiles%2Fpresentations%2FHow%20to%20Scale%20Big%20Data%20Applications.pdf))
 
 - #### NoSQL
@@ -273,9 +270,18 @@
 [More links](https://time.geekbang.org/column/article/10301)
 
 ### 分布式架构
+
 ### 微服务
+
 ### 容器化和自动化运维
+
 ### 机器人学习和人工智能
+
 ### 前端基础和底层原理
+
 ### 前端新能优化和框架
+
 ### UI 和 UX
+
+另一份清单：
+[coding-interview-university](https://github.com/jwasham/coding-interview-university)
