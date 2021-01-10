@@ -270,14 +270,20 @@
 [More links](https://time.geekbang.org/column/article/10301)
 
 ### 分布式架构
+[ ] [分布式系统架构的冰与火](https://time.geekbang.org/column/article/1411)
+[ ] [分布式系统架构经典资料](https://time.geekbang.org/column/article/2080)
 
 ### 微服务
+[ ] [程序员练级攻略：微服务](https://time.geekbang.org/column/article/11116)
 
 ### 容器化和自动化运维
+[ ] [程序员练级攻略：容器化和自动化运维](https://time.geekbang.org/column/article/11665)
 
 ### 机器人学习和人工智能
+[ ] [程序员练级攻略：机器学习和人工智能](https://time.geekbang.org/column/article/11669)
 
 ### 前端基础和底层原理
+[ ] [程序员练级攻略：前端基础和底层原理](https://time.geekbang.org/column/article/12271)
 
 ### 前端新能优化和框架
 
