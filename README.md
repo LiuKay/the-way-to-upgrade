@@ -16,10 +16,10 @@
   - [ ] [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
   - [ ] [修改代码的艺术](https://book.douban.com/subject/2248759/)
   - [X] [代码整洁之道](https://book.douban.com/subject/4199741/)
-  - [ ] [程序员职业素养](https://book.douban.com/subject/11614538/)
+  - [X] [程序员职业素养](https://book.douban.com/subject/11614538/)
 - Code Review
-  - [ ] [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
-  - [ ] [How Google Does Code Review](https://dzone.com/articles/how-google-does-code-review)
+  - [X] [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+  - [X] [How Google Does Code Review](https://dzone.com/articles/how-google-does-code-review)
 - 安全防范
   - [ ] [OWASP](https://owasp.org/)
   - [ ] [OWASP 十大 Web 弱点防护守则](https://www.owasp.org/index.php/Category:OWASP_T)
@@ -40,7 +40,7 @@
 - [X] [深入理解Java虚拟机（第3版）](https://book.douban.com/subject/34907497/)
 - [ ] [Java编程思想](https://book.douban.com/subject/2130190/)
 - [ ] [精通Spring 4.x](https://book.douban.com/subject/26952826/)
-- [ ] [设计模式](https://book.douban.com/subject/1052241/)
+- [] [设计模式](https://book.douban.com/subject/1052241/)
 
 #### C/C++
 
