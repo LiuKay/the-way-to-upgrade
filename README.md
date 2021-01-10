@@ -40,7 +40,7 @@
 - [X] [深入理解Java虚拟机（第3版）](https://book.douban.com/subject/34907497/)
 - [ ] [Java编程思想](https://book.douban.com/subject/2130190/)
 - [ ] [精通Spring 4.x](https://book.douban.com/subject/26952826/)
-- [] [设计模式](https://book.douban.com/subject/1052241/)
+- [ ] [设计模式](https://book.douban.com/subject/1052241/)
 
 #### C/C++
 
