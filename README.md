@@ -175,14 +175,17 @@
 
 - [ ] [C10K问题](https://en.wikipedia.org/wiki/C10k_problem)
 - [ ] [Thousands of Threads and Blocking I/O](https://www.slideshare.net/e456/tyma-paulmultithreaded1)
-- [ ] [Scalable IO in Java]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http%3A%2F%2Fgee.cs.oswego.edu%2Fdl%2Fcpjslides%2Fnio.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http%3A%2F%2Fgee.cs.oswego.edu%2Fdl%2Fcpjslides%2Fnio.pdf))
+- [ ] [Scalable IO in Java - Doug Lea](http://gee.cs.oswego.edu/dl/cpjslides/nio.pdf)
 - [ ] [Boost application performance using asynchronous I/O](https://developer.ibm.com/technologies/linux/articles/l-async/)
 - [ ] [**Lazy Asynchronous I/O For Event-Driven Servers**](https://www.usenix.org/legacy/event/usenix04/tech/general/full_papers/elmeleegy/elmeleegy_html/html.html)
 - [ ] [Windows I/O Completion Ports](https://docs.microsoft.com/en-us/windows/win32/fileio/i-o-completion-ports), [IO Processing](https://flylib.com/books/en/4.491.1.85/1/)
 - [ ] [Fast portable non-blocking network programming with Libevent](http://www.wangafu.net/~nickm/libevent-book/)
 - [ ] [Libevent 深入浅出](https://aceld.gitbooks.io/libevent/content/)
 - [ ] [Libuv Design Overview](http://docs.libuv.org/en/v1.x/design.html)
-- [ ] Reactor模式：[Understanding Reactor Pattern: Thread-Based and Event-Driven](https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve), [Reactor Pattern]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.dre.vanderbilt.edu%2F~schmidt%2FPDF%2FReactor2-93.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.dre.vanderbilt.edu%2F~schmidt%2FPDF%2FReactor2-93.pdf)),[The reactor pattern and non-blocking IO](https://www.celum.com/en/blog/technology/the-reactor-pattern-and-non-blocking-io)
+- Reactor模式：
+  - [ ] [Understanding Reactor Pattern: Thread-Based and Event-Driven](https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve)
+  - [ ] [Reactor Pattern](https://www.dre.vanderbilt.edu/~schmidt/PDF/Reactor2-93.pdf)
+  - [ ] [Reactor Pattern Part 1 - Applications with Blocking I/O](http://venkateshcm.com/2014/04/Reactor-Pattern-Part-1-Non-blocking-I-O/)
 
 - Lock-Free
 - [ ] [Dr.Dobb’s: Lock-Free Data Structures](http://www.drdobbs.com/lock-free-data-structures/184401865)
