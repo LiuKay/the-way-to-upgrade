@@ -1,5 +1,7 @@
 # The Way To Upgrade - 程序员练级攻略
 
+> 食用方式：fork 到自己仓库，checkout branch progress，完成一项在前面打X即可
+
 ## 入门
 
 - [X] [Teach Yourself Programming in Ten Years](https://liuyandong.com/2017/10/25/122/)
@@ -127,7 +129,7 @@
 
 - [ ] [Memory Barriers:  a Hardware View for Software Hackers](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf)
 
-- [ ] [x86-TSO: A Rigorous and Usable Programmer’s Model for x86 Multiprocessors]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.cl.cam.ac.uk%2F~pes20%2Fweakmemory%2Fcacm.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.cl.cam.ac.uk%2F~pes20%2Fweakmemory%2Fcacm.pdf))
+- [ ] [x86-TSO: A Rigorous and Usable Programmer’s Model for x86 Multiprocessors](https://www.cl.cam.ac.uk/~pes20/weakmemory/cacm.pdf)
 
 - [ ] [ptmalloc](http://www.malloc.de/en/)
 
@@ -155,7 +157,7 @@
 
 - [ ] [Linux Advanced Routing & Traffic Control](http://lartc.org/)
 
-- [ ] [Red Hat Enterprise Linux Network Performance Tuning Guide]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Faccess.redhat.com%2Fsites%2Fdefault%2Ffiles%2Fattachments%2F20150325_network_performance_tuning.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Faccess.redhat.com%2Fsites%2Fdefault%2Ffiles%2Fattachments%2F20150325_network_performance_tuning.pdf))
+- [ ] [Red Hat Enterprise Linux Network Performance Tuning Guide](https://access.redhat.com/sites/default/files/attachments/20150325_network_performance_tuning.pdf)
 
 - [ ] [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
 
@@ -173,14 +175,17 @@
 
 - [ ] [C10K问题](https://en.wikipedia.org/wiki/C10k_problem)
 - [ ] [Thousands of Threads and Blocking I/O](https://www.slideshare.net/e456/tyma-paulmultithreaded1)
-- [ ] [Scalable IO in Java]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http%3A%2F%2Fgee.cs.oswego.edu%2Fdl%2Fcpjslides%2Fnio.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http%3A%2F%2Fgee.cs.oswego.edu%2Fdl%2Fcpjslides%2Fnio.pdf))
+- [ ] [Scalable IO in Java - Doug Lea](http://gee.cs.oswego.edu/dl/cpjslides/nio.pdf)
 - [ ] [Boost application performance using asynchronous I/O](https://developer.ibm.com/technologies/linux/articles/l-async/)
 - [ ] [**Lazy Asynchronous I/O For Event-Driven Servers**](https://www.usenix.org/legacy/event/usenix04/tech/general/full_papers/elmeleegy/elmeleegy_html/html.html)
 - [ ] [Windows I/O Completion Ports](https://docs.microsoft.com/en-us/windows/win32/fileio/i-o-completion-ports), [IO Processing](https://flylib.com/books/en/4.491.1.85/1/)
 - [ ] [Fast portable non-blocking network programming with Libevent](http://www.wangafu.net/~nickm/libevent-book/)
 - [ ] [Libevent 深入浅出](https://aceld.gitbooks.io/libevent/content/)
 - [ ] [Libuv Design Overview](http://docs.libuv.org/en/v1.x/design.html)
-- [ ] Reactor模式：[Understanding Reactor Pattern: Thread-Based and Event-Driven](https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve), [Reactor Pattern]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.dre.vanderbilt.edu%2F~schmidt%2FPDF%2FReactor2-93.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.dre.vanderbilt.edu%2F~schmidt%2FPDF%2FReactor2-93.pdf)),[The reactor pattern and non-blocking IO](https://www.celum.com/en/blog/technology/the-reactor-pattern-and-non-blocking-io)
+- Reactor模式：
+  - [ ] [Understanding Reactor Pattern: Thread-Based and Event-Driven](https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve)
+  - [ ] [Reactor Pattern](https://www.dre.vanderbilt.edu/~schmidt/PDF/Reactor2-93.pdf)
+  - [ ] [Reactor Pattern Part 1 - Applications with Blocking I/O](http://venkateshcm.com/2014/04/Reactor-Pattern-Part-1-Non-blocking-I-O/)
 
 - Lock-Free
 - [ ] [Dr.Dobb’s: Lock-Free Data Structures](http://www.drdobbs.com/lock-free-data-structures/184401865)
@@ -268,14 +273,20 @@
 [More links](https://time.geekbang.org/column/article/10301)
 
 ### 分布式架构
+- [ ] [分布式系统架构的冰与火](https://time.geekbang.org/column/article/1411)
+- [ ] [分布式系统架构经典资料](https://time.geekbang.org/column/article/2080)
 
 ### 微服务
+- [ ] [程序员练级攻略：微服务](https://time.geekbang.org/column/article/11116)
 
 ### 容器化和自动化运维
+- [ ] [程序员练级攻略：容器化和自动化运维](https://time.geekbang.org/column/article/11665)
 
 ### 机器人学习和人工智能
+- [ ] [程序员练级攻略：机器学习和人工智能](https://time.geekbang.org/column/article/11669)
 
 ### 前端基础和底层原理
+- [ ] [程序员练级攻略：前端基础和底层原理](https://time.geekbang.org/column/article/12271)
 
 ### 前端新能优化和框架
 
