@@ -4,24 +4,24 @@
 
 ## 入门
 
-- [X] [Teach Yourself Programming in Ten Years](https://liuyandong.com/2017/10/25/122/)
-- [X] [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
-- [X] [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
+- [ ] [Teach Yourself Programming in Ten Years](https://liuyandong.com/2017/10/25/122/)
+- [ ] [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+- [ ] [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
 
 ## 程序员修养
 
 - 英文能力
 - 问问题的能力
-  - [X] [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html),[点击简体中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
-  - [X] [The XY Problem](http://xyproblem.info/)
+  - [ ] [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html),[点击简体中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+  - [ ] [The XY Problem](http://xyproblem.info/)
 - 写代码的修养
   - [ ] [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
   - [ ] [修改代码的艺术](https://book.douban.com/subject/2248759/)
-  - [X] [代码整洁之道](https://book.douban.com/subject/4199741/)
-  - [X] [程序员职业素养](https://book.douban.com/subject/11614538/)
+  - [ ] [代码整洁之道](https://book.douban.com/subject/4199741/)
+  - [ ] [程序员职业素养](https://book.douban.com/subject/11614538/)
 - Code Review
-  - [X] [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
-  - [X] [How Google Does Code Review](https://dzone.com/articles/how-google-does-code-review)
+  - [ ] [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+  - [ ] [How Google Does Code Review](https://dzone.com/articles/how-google-does-code-review)
 - 安全防范
   - [ ] [OWASP](https://owasp.org/)
   - [ ] [OWASP 十大 Web 弱点防护守则](https://www.owasp.org/index.php/Category:OWASP_T)
@@ -39,7 +39,7 @@
 - [ ] [Effectic Java](https://book.douban.com/subject/27047716/)
 - [ ] [Java并发编程实战](https://book.douban.com/subject/10484692/)(进行中，第8章)
 - [ ] [Java性能权威指南](https://book.douban.com/subject/26740520/)
-- [X] [深入理解Java虚拟机（第3版）](https://book.douban.com/subject/34907497/)
+- [ ] [深入理解Java虚拟机（第3版）](https://book.douban.com/subject/34907497/)
 - [ ] [Java编程思想](https://book.douban.com/subject/2130190/)
 - [ ] [精通Spring 4.x](https://book.douban.com/subject/26952826/)
 - [ ] [设计模式](https://book.douban.com/subject/1052241/)
@@ -203,9 +203,9 @@
 
 - #### 字节码相关
 
-- [x] [Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
+- [ ] [Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
 
-- [x] [IBM Java bytecode](https://www.ibm.com/developerworks/library/it-haggar_bytecode/index.html)
+- [ ] [IBM Java bytecode](https://www.ibm.com/developerworks/library/it-haggar_bytecode/index.html)
 
 - [ ] [Java Bytecode and JVMTI Examples](https://github.com/jon-bell/bytecode-examples)
 
