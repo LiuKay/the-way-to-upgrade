@@ -129,7 +129,7 @@
 
 - [ ] [Memory Barriers:  a Hardware View for Software Hackers](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf)
 
-- [ ] [x86-TSO: A Rigorous and Usable Programmer’s Model for x86 Multiprocessors]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.cl.cam.ac.uk%2F~pes20%2Fweakmemory%2Fcacm.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.cl.cam.ac.uk%2F~pes20%2Fweakmemory%2Fcacm.pdf))
+- [ ] [x86-TSO: A Rigorous and Usable Programmer’s Model for x86 Multiprocessors](https://www.cl.cam.ac.uk/~pes20/weakmemory/cacm.pdf)
 
 - [ ] [ptmalloc](http://www.malloc.de/en/)
 
@@ -157,7 +157,7 @@
 
 - [ ] [Linux Advanced Routing & Traffic Control](http://lartc.org/)
 
-- [ ] [Red Hat Enterprise Linux Network Performance Tuning Guide]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Faccess.redhat.com%2Fsites%2Fdefault%2Ffiles%2Fattachments%2F20150325_network_performance_tuning.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Faccess.redhat.com%2Fsites%2Fdefault%2Ffiles%2Fattachments%2F20150325_network_performance_tuning.pdf))
+- [ ] [Red Hat Enterprise Linux Network Performance Tuning Guide](https://access.redhat.com/sites/default/files/attachments/20150325_network_performance_tuning.pdf)
 
 - [ ] [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
 
@@ -203,9 +203,9 @@
 
 - #### 字节码相关
 
-- [x] [Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
+- [ ] [Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
 
-- [x] [IBM Java bytecode](https://www.ibm.com/developerworks/library/it-haggar_bytecode/index.html)
+- [ ] [IBM Java bytecode](https://www.ibm.com/developerworks/library/it-haggar_bytecode/index.html)
 
 - [ ] [Java Bytecode and JVMTI Examples](https://github.com/jon-bell/bytecode-examples)
 
@@ -273,20 +273,20 @@
 [More links](https://time.geekbang.org/column/article/10301)
 
 ### 分布式架构
-[ ] [分布式系统架构的冰与火](https://time.geekbang.org/column/article/1411)
-[ ] [分布式系统架构经典资料](https://time.geekbang.org/column/article/2080)
+- [ ] [分布式系统架构的冰与火](https://time.geekbang.org/column/article/1411)
+- [ ] [分布式系统架构经典资料](https://time.geekbang.org/column/article/2080)
 
 ### 微服务
-[ ] [程序员练级攻略：微服务](https://time.geekbang.org/column/article/11116)
+- [ ] [程序员练级攻略：微服务](https://time.geekbang.org/column/article/11116)
 
 ### 容器化和自动化运维
-[ ] [程序员练级攻略：容器化和自动化运维](https://time.geekbang.org/column/article/11665)
+- [ ] [程序员练级攻略：容器化和自动化运维](https://time.geekbang.org/column/article/11665)
 
 ### 机器人学习和人工智能
-[ ] [程序员练级攻略：机器学习和人工智能](https://time.geekbang.org/column/article/11669)
+- [ ] [程序员练级攻略：机器学习和人工智能](https://time.geekbang.org/column/article/11669)
 
 ### 前端基础和底层原理
-[ ] [程序员练级攻略：前端基础和底层原理](https://time.geekbang.org/column/article/12271)
+- [ ] [程序员练级攻略：前端基础和底层原理](https://time.geekbang.org/column/article/12271)
 
 ### 前端新能优化和框架
 
