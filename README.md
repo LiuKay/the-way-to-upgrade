@@ -37,7 +37,7 @@
 #### Java
 
 - [ ] [Effectic Java](https://book.douban.com/subject/27047716/)
-- [ ] [Java并发编程实战](https://book.douban.com/subject/10484692/)(进行中，第8章)
+- [ ] [Java并发编程实战](https://book.douban.com/subject/10484692/)
 - [ ] [Java性能权威指南](https://book.douban.com/subject/26740520/)
 - [ ] [深入理解Java虚拟机（第3版）](https://book.douban.com/subject/34907497/)
 - [ ] [Java编程思想](https://book.douban.com/subject/2130190/)
@@ -79,7 +79,7 @@
 
 ### 系统知识
 
-- [ ] [深入理解计算机系统](https://book.douban.com/subject/5333562/) (进行中，第三章)
+- [ ] [深入理解计算机系统](https://book.douban.com/subject/5333562/)
 - [ ] [UNIX环境高级编程](https://book.douban.com/subject/1788421/)
 - [ ] [UNIX网络编程](https://book.douban.com/subject/1500149/)
 - [ ] [TCP/IP详解 卷1：协议](https://book.douban.com/subject/1088054/)
