@@ -92,7 +92,7 @@
 
 - [ ] [编程范式](https://en.wikipedia.org/wiki/Programming_paradigm)
 - [ ] [Six programming paradigms that will change how you think about coding](https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
-- [ ] [Programming Paradigms forDummies:  What EveryProgrammer Should Know]
+- [ ] [Programming Paradigms forDummies:  What EveryProgrammer Should Know](https://info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 - [ ] [领域驱动设计](https://book.douban.com/subject/26819666/)
 - [ ] [UNIX编程艺术](https://book.douban.com/subject/1467587/)
 - [ ] [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
@@ -221,7 +221,7 @@
 
 - #### JVM
 
-- [ ] [The Java® VirtualMachine SpecificationJava SE 8 Edition]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fdocs.oracle.com%2Fjavase%2Fspecs%2Fjvms%2Fse8%2Fjvms8.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fdocs.oracle.com%2Fjavase%2Fspecs%2Fjvms%2Fse8%2Fjvms8.pdf))
+- [ ] [The Java® VirtualMachine SpecificationJava SE 8 Edition](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
 
 - [ ] [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
 
@@ -254,7 +254,7 @@
 - [ ] [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
 - [ ] [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/postgres-to-mysql-migration/)
 - [ ] [MySQL sharding approaches?](https://stackoverflow.com/questions/5541421/mysql-sharding-approaches)
-- [ ] [How to Scale Big Data Applications]([chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.percona.com%2Fsites%2Fdefault%2Ffiles%2Fpresentations%2FHow%2520to%2520Scale%2520Big%2520Data%2520Applications.pdf](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.percona.com%2Fsites%2Fdefault%2Ffiles%2Fpresentations%2FHow%20to%20Scale%20Big%20Data%20Applications.pdf))
+- [ ] [How to Scale Big Data Applications](https://www.percona.com/sites/default/files/presentations/How%20to%20Scale%20Big%20Data%20Applications.pdf)
 
 - #### NoSQL
 
