@@ -274,7 +274,19 @@
 
 ### 分布式架构
 - [ ] [分布式系统架构的冰与火](https://time.geekbang.org/column/article/1411)
-- [ ] [分布式系统架构经典资料](https://time.geekbang.org/column/article/2080)
+
+#### 分布式架构入门
+- [ ] [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
+- [ ] [Scalability, Availability & Stability Patterns](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
+- [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [ ] [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class)
+- [ ] [拜占庭将军问题 Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
+- [ ] [CAP](https://en.wikipedia.org/wiki/CAP_theorem)
+- [ ] [A Brief Tour of FLP Impossibility](https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/)
+- [ ] [8 条荒谬的分布式假设](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+- [ ] [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
+- [ ] [Base: An Acid Alternative](https://queue.acm.org/detail.cfm?id=1394128)
+- [ ] [Eventually Consistent - Revisited](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 
 ### 微服务
 - [ ] [程序员练级攻略：微服务](https://time.geekbang.org/column/article/11116)
