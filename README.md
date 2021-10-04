@@ -12,7 +12,7 @@
 
 - 英文能力
 - 问问题的能力
-  - [ ] [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html),[点击简体中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+  - [ ] [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html),[简体中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
   - [ ] [The XY Problem](http://xyproblem.info/)
 - 写代码的修养
   - [ ] [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
