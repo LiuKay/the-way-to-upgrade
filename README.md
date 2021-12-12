@@ -1,6 +1,8 @@
 # The Way To Upgrade - 程序员练级攻略
 
 > 食用方式：fork 到自己仓库，checkout branch progress，完成一项在前面打X即可
+> 
+> This is a single repo from [https://liukay.github.io/KaybeeNotes/#/docs/the-way-to-level-up](https://liukay.github.io/KaybeeNotes/#/docs/the-way-to-level-up)
 
 ## 入门
 
