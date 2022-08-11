@@ -26,7 +26,7 @@
   - [ ] [How Google Does Code Review](https://dzone.com/articles/how-google-does-code-review)
 - 安全防范
   - [ ] [OWASP](https://owasp.org/)
-  - [ ] [OWASP 十大 Web 弱点防护守则](https://www.owasp.org/index.php/Category:OWASP_T)
+  - [ ] [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
   - [ ] [防御性编程](https://en.wikipedia.org/wiki/Defensive_programming)
 - 软件工程和上线
   - [ ] [Google软件测试之道](https://book.douban.com/subject/25742200/)
